@@ -25,18 +25,21 @@ If we run the program with no arguments, we get:
     Usage: ./testArgs [n] [iterations] [threads]
 
 We can try this usage:
+
     > ./testArgs 4 3 12
     n: 4
     iterations: 3
     threads: 12
 
-== Requirements ==
+Requirements
+============
 
 - C++
 - C++ standard library
 - nothing else!
 
-== License ==
+License
+=======
 
 MPL 2.0
 
